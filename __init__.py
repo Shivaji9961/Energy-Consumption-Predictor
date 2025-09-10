@@ -1,1 +1,0 @@
-print("Energy Consumption Project File Initiated".center(80, '*'))
